@@ -1,0 +1,44 @@
+.square{
+    width: 200px;
+    border: 3px solid red;
+    height: 200px;
+}
+.rectangle{
+    width: 300px;
+    border:3px dotted blue;
+    height: 200px;
+}
+.circle{
+    width:200px ;
+    height: 200px;
+    border-radius:50% ;
+    border: dashed black;
+}
+.ellipse{
+    width:200px ;
+    height:200px ;
+    border-radius:50% 70% 50% 70%;
+    border:double  rgb(142, 65, 35);
+}
+.square{
+    float:right;
+    margin-top: 20px;
+}
+.rectangle{
+    float: right;
+    margin: 25px;
+}
+.circle{
+    float: left;
+    margin:20px ;
+}
+.ellipse{
+    float: left;
+    margin: 20px;
+}
+h2{
+    text-align: center;
+    color: midnightblue;
+    font-family: 'Franklin Gothic Medium'
+
+}
